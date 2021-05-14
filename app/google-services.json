@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807223164783",
+    "project_id": "codetest-c1040",
+    "storage_bucket": "codetest-c1040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807223164783:android:287e3d0914d8984ae8b29a",
+        "android_client_info": {
+          "package_name": "com.mw21.codetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807223164783-h425sjakfftcfkb9f2m2vg3bdo4dh4l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVw0UwbgN77Lg2po5K9YDsbFdxiGwQ6UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807223164783-h425sjakfftcfkb9f2m2vg3bdo4dh4l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
